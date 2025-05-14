@@ -17,6 +17,14 @@ dev_dependencies:
   flutter_lints: ^4.0.0
 
 flutter:
+  assets:
+    - assets/co1.jpg
+    - assets/co2.jpg
+    - assets/co3.jpg
+    - assets/co4.jpg
+    - assets/co5.jpg
+    - assets/co6.jpg
+
   uses-material-design: true
   # assets:
   #  - images/a_dot_burr.jpeg
